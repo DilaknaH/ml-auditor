@@ -285,5 +285,7 @@ Built with:
 * Streamlit
 * OpenAI
 
-## Author
+---
+
+## Author 
 Dilakna Godagamage
