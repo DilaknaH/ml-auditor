@@ -1,0 +1,23 @@
+name: ML Audit
+
+on: [push]
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Audit on Sample Buggy Notebook
+        run: |
+          python -c "from ml_auditor.engine import AuditorEngine; eng = AuditorEngine('tests/sample_notebooks/buggy_notebook.ipynb'); issues = eng.run_audit(); print('Found Issues:', len(issues)); [print(i['message']) for i in issues]"

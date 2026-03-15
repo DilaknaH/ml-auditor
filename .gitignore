@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore secrets
+.env
+
+# Ignore temporary files
+temp_*.ipynb
+temp_*.py
+__pycache__/
