@@ -32,9 +32,10 @@ https://ml-auditor-pro.streamlit.app/
 ⚠️ The deployed demo currently runs in **Offline Mode** (no OpenAI key attached).
 This means **static ML bug detection works fully**, while **AI-generated fixes require users to provide their own API key**.
 
+---
+
 **Medium Article:**
 https://medium.com/@dilaknagodagamage/what-if-machine-learning-had-autocorrect-235a8686fcc8
-
 
 ---
 
