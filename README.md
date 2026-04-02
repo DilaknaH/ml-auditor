@@ -300,4 +300,8 @@ Built with:
 
 *AI & Machine Learning Enthusiast*
 
-Feel free to connect with me on Linkedin: www.linkedin.com/in/dilakna-godagamage-53166326b
+Feel free to connect with me on Linkedin: [Dilakna Godagamage](https://www.linkedin.com/in/dilakna-godagamage-53166326b)
+
+---
+
+⭐ **If you found this useful, give it a star!**
