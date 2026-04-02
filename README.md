@@ -29,6 +29,8 @@ You can try the deployed application here:
 **Live Demo:**
 https://ml-auditor-pro.streamlit.app/
 
+> Notice: If the app appears asleep or doesn’t load, please kindly reach out to me via LinkedIn (link in the author details below)
+
 ⚠️ The deployed demo currently runs in **Offline Mode** (no OpenAI key attached).
 This means **static ML bug detection works fully**, while **AI-generated fixes require users to provide their own API key**.
 
@@ -293,4 +295,9 @@ Built with:
 ---
 
 ## Author 
-Dilakna Godagamage
+
+**Dilakna Godagamage**
+
+*AI & Machine Learning Enthusiast*
+
+Feel free to connect with me on Linkedin: www.linkedin.com/in/dilakna-godagamage-53166326b
